@@ -31,7 +31,7 @@ print(result)
 ```
 
 
-# Lesson 2:  Introduction to TensorFlow
+# Lesson 02:  Introduction to TensorFlow
 
 Hi, TensorFlow is a Python library for fast numerical computing created and released by Google. Like Theano, TensorFlow is intended to be used to develop deep learning models.
 
@@ -68,7 +68,7 @@ print(c)
 ```
 
 
-# Lesson 3: Intro to Keras
+# Lesson 03: Intro to Keras
 
 Hi, a difficulty of both Theano and TensorFlow is that it can take a lot of code to create even very simple neural network models.
 
@@ -94,3 +94,20 @@ For example, you can install Keras using pip:
 `sudo pip install keras`
 
 Start to familiarize yourself with the Keras library ready for the upcoming lessons where we will implement our first model.
+
+# Lesson 04: Crash Course in Multi-Layer Perceptrons
+
+Hi, artificial neural networks are a fascinating area of study, although they can be intimidating when just getting started.
+
+The field of artificial neural networks is often just called neural networks or multi-layer Perceptrons after perhaps the most useful type of neural network.
+
+The building block for neural networks are artificial neurons. These are simple computational units that have weighted input signals and produce an output signal using an activation function.
+
+Neurons are arranged into networks of neurons. A row of neurons is called a layer and one network can have multiple layers. The architecture of the neurons in the network is often called the network topology.
+
+Once configured, the neural network needs to be trained on your dataset. The classical and still preferred training algorithm for neural networks is called stochastic gradient descent.
+
+Your goal for this lesson is to become familiar with neural network terminology.
+
+Dig a little deeper into terms like neuron, weights, activation function, learning rate and more.
+
